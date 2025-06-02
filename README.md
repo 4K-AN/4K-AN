@@ -19,5 +19,4 @@
 ## 😄 Pronouns: 
 - He/Him
 
-## ⚡ Fun fact:
-- I can move my ears! 😄
+
