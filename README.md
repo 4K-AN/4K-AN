@@ -1,4 +1,4 @@
-# Hi there, I'm Akhmad Syafiul Anam (Syafi) 👋
+# Hi there, I'm Akhmad Syafiul Anam 
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&vCenter=true&width=500&lines=Information+Technology+Student;Software+%26+Game+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
@@ -18,7 +18,6 @@ Welcome to my GitHub! I am a passionate developer with a deep interest in buildi
 **Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
